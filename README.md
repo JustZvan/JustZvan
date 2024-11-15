@@ -2,8 +2,6 @@
 
 I'm Zvan, from Zagreb, Croatia 🇭🇷
 
-I'm mostly in web dev, although i sometimes do some stuff in Python.
-
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
